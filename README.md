@@ -51,13 +51,8 @@ This project uses the following Python libraries and packages:
 - `scikit-learn`: For machine learning algorithms and evaluation metrics.
 - `matplotlib` and `seaborn`: For data visualization.
 
-## Usage
-1.Clone this repository to your local machine:
-Copy code
-git clone https://github.com/your-username/iris-classification-knn.git
-2.Change to the project directory:
-Copy code
-cd iris-classification-knn
-
-##Results
+## Results
 The project provides visualizations of the Iris dataset, including pair plots to help understand the data distribution. Additionally, it visualizes the decision boundary of the KNN classifier and provides a confusion matrix to assess the classification results.
+
+## License
+This project is licensed under the MIT License.
